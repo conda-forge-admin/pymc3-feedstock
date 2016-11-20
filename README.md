@@ -33,7 +33,6 @@ conda search pymc3 --channel conda-forge
 ```
 
 
-
 About conda-forge
 =================
 
